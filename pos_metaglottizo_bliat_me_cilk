@@ -1,0 +1,16 @@
+https://www.cilkplus.org/build-gcc-cilkplus
+στην ενοτητα Using the GCC compilers with the Cilk™ Plus extensions
+
+export PATH=$HOME/cilkplus-install/bin:$PATH
+export CPATH=$HOME/cilkplus-install/include:$CPATH
+export LIBRARY_PATH=$HOME/cilkplus-install/lib:$HOME/cilkplus-install/lib64:$LIBRARY_PATH
+export LD_LIBRARY_PATH=$HOME/cilkplus-install/lib:$HOME/cilkplus-install/lib64:$LD_LIBRARY_PATH
+
+Απλα πρεπει παντου να αντικαταστησουμε το
+$HOME
+με
+/export/home/markioan
+
+και λειτουργει.
+
+$HOME/cilkplus-install/bin/gcc -fcilkplus -lcilkrts <OTHER_FLAGS> <SRC_FILES>
