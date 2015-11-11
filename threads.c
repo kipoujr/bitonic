@@ -3,11 +3,14 @@
 #include <pthread.h>
 #include <sys/time.h>
 
+#define BASEPOW 13
+#define BASE (1<<BASEPOW)
+
 struct timeval startwtime, endwtime;
 double seq_time;
 
 int N, n;          // data array size, threads
-int *a;         // data array to be sorted
+int *a, *b;         // data array to be sorted
 pthread_mutex_t mutex1 = PTHREAD_MUTEX_INITIALIZER;
 int activeThreads;
 
@@ -54,6 +57,7 @@ int main(int argc, char **argv) {
   N = 1<<atoi(argv[1]);
   n = 1<<atoi(argv[2]);
   a = (int *) malloc(N * sizeof(int));
+  b = (int *) malloc(N * sizeof(int));
 
   init();
   gettimeofday (&startwtime, NULL);
@@ -132,36 +136,95 @@ inline void compare(int i, int j, int dir) {
 	     The sequence to be sorted starts at index position lo,
 	        the parameter cbt is the number of elements to be sorted.
 **/
-void bitonicMerge(int lo, int cnt, int dir) {
-  if (cnt>1) {
-    int i, k=cnt/2;
 
-    for (i=lo; i<lo+k; i++)
-      compare(i, i+k, dir);
+void Merge(int lo, int cnt, int dir) {
+  int i, maxim = lo, left, right, half=lo+cnt/2,lo2_plus_count_minus_1 = (lo<<1)+cnt-1;
 
-    pthread_mutex_lock (&mutex1);
-    if ( activeThreads < n ) {
-      ++activeThreads;
-      pthread_mutex_unlock(&mutex1);
+  //Copy to b and find maximum
+  for (i=0; i<cnt; ++i) {
+    b[lo+i] = a[lo+i];
+    if ( a[lo+i] > a[maxim] ) {
+      maxim = lo+i;
+    }
+  }
 
-      sortData arg2;
-      pthread_t thread2;
-      arg2.lo = lo+k;
-      arg2.cnt = k;
-      arg2.dir = dir;
+  //init pointers
+  left = maxim;
+  right = maxim+1;
+  if ( right == lo+cnt ) {
+    right = lo;
+  }
 
-      pthread_create ( &thread2, NULL, MergeThreadFunction, &arg2 );
-      bitonicMerge(lo, k, dir);
-      pthread_join ( thread2, NULL );
-      pthread_mutex_lock(&mutex1);
-      --activeThreads;
-      pthread_mutex_unlock(&mutex1);
+  //merge step, descending
+  for (i=0; i<cnt; ++i) {
+    if ( b[left] > b[right] ) {
+      a[lo+i] = b[left--];
+      if ( left < lo ) {
+	left = lo+cnt-1;
+      }
     }
     else {
-      pthread_mutex_unlock(&mutex1);
-      //Replace qsort with a merging, O(N) algo
-      qsort (a+lo,cnt,sizeof(int),dir==ASCENDING?asc:desc);
+      a[lo+i] = b[right++];
+      if ( right == lo+cnt ) {
+	right = lo;
+      }
     }
+  }
+
+  //if you want ascending, reverse it
+  if ( dir ) {
+    for ( i=lo; i<half; ++i ) {
+      exchange(i,lo2_plus_count_minus_1 - i);
+    }
+  }
+}
+
+void* CompareThreadFunction ( void* arg ) {
+  int lo = ((sortData *)arg)->lo;
+  int cnt = ((sortData *)arg)->cnt;
+  int dir = ((sortData *)arg)->dir;
+  int i;
+  for ( i=lo; i<lo+cnt; i++ ) {
+    compare(i,i+2*cnt,dir);
+  }
+}
+
+void bitonicMerge(int lo, int cnt, int dir) {
+  int i, k=cnt/2;
+  
+  pthread_mutex_lock (&mutex1);
+  if ( cnt > BASE && activeThreads < n ) {
+    ++activeThreads;
+    pthread_mutex_unlock(&mutex1);
+      
+    sortData comp;
+    pthread_t threadComp;
+    comp.lo = lo+k/2;
+    comp.cnt = k/2;
+    comp.dir = dir;
+    
+    pthread_create( &threadComp, NULL, CompareThreadFunction, &comp);
+    for (i=lo; i<lo+k/2; i++)
+      compare(i, i+k, dir);
+    pthread_join ( threadComp, NULL );
+    
+    sortData arg2;
+    pthread_t thread2;
+    arg2.lo = lo+k;
+    arg2.cnt = k;
+    arg2.dir = dir;
+    
+    pthread_create ( &thread2, NULL, MergeThreadFunction, &arg2 );
+    bitonicMerge(lo, k, dir);
+    pthread_join ( thread2, NULL );
+    pthread_mutex_lock(&mutex1);
+    --activeThreads;
+    pthread_mutex_unlock(&mutex1);
+  }
+  else {
+    pthread_mutex_unlock(&mutex1);
+    //Merge(lo,cnt,dir);
+    qsort (a+lo,cnt,sizeof(int),dir==ASCENDING?asc:desc);
   }
 }
 
