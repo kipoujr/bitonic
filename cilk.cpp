@@ -11,8 +11,9 @@
 struct timeval startwtime, endwtime;
 double seq_time;
 
-int N,n;          // data array size
+int N;          // data array size
 int *a;         // data array to be sorted
+char threads[10];
 
 const int ASCENDING  = 1;
 const int DESCENDING = 0;
@@ -46,14 +47,12 @@ int asc( const void *a, const void *b ){
 int main( int argc, char **argv ) {
 
   if (argc != 3 || atoi( argv[ 2 ] ) > 256 ) {
-    printf( "Usage: %s q t\n  where n=2^q is problem size (power of two), and t is the number of threads, <=256, to use.\n", argv[ 0 ] );
+    printf( "Usage: %s q t\n  where N=2^q is problem size (power of two), and n=2^t is the number of threads, <=256, to use.\n", argv[ 0 ] );
     exit( 1 );
   }
 
   N = 1 << atoi( argv[ 1 ] );
-  n = atoi(argv[2]);
-  printf ("Number of elements %d, number of threads %d\n", N, n);
-  __cilkrts_set_param("nworkers", argv[2]);
+  sprintf (threads , "%d", 1<<atoi(argv[2]));
 
   a = (int *) malloc( N * sizeof( int ) );
   init();
@@ -68,7 +67,7 @@ int main( int argc, char **argv ) {
   PimpBitonicSort();
   gettimeofday( &endwtime, NULL );
   seq_time = (double)( ( endwtime.tv_usec - startwtime.tv_usec ) / 1.0e6 + endwtime.tv_sec - startwtime.tv_sec );
-  printf( "Bitonic parallel imperative with %i threads wall clock time = %f\n", n,  seq_time );
+  printf( "Bitonic parallel imperative with %s threads wall clock time = %f\n", threads,  seq_time );
   test();
 
 }
@@ -122,6 +121,7 @@ void PimpBitonicSort() {
     return;
   }
 
+  __cilkrts_set_param("nworkers", threads);
   chunks = N / SIZE;
   cilk_for (int i=0; i<chunks; ++i) {
     qsort( a + i*SIZE, SIZE, sizeof( int ), i%2?desc:asc );
