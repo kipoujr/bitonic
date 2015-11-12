@@ -61,20 +61,11 @@ int main(int argc, char **argv) {
 
   init();
   gettimeofday (&startwtime, NULL);
-  //qsort( a, N, sizeof( int ), asc );                                                                    
-  gettimeofday (&endwtime, NULL);
-  seq_time = (double)((endwtime.tv_usec - startwtime.tv_usec)/1.0e6
-		      + endwtime.tv_sec - startwtime.tv_sec);
-  printf("Qsort wall clock time = %f\n", seq_time);
-  test();
-
-  init();
-  gettimeofday (&startwtime, NULL);
   sort();
   gettimeofday (&endwtime, NULL);
   seq_time = (double)((endwtime.tv_usec - startwtime.tv_usec)/1.0e6
 		      + endwtime.tv_sec - startwtime.tv_sec);
-  printf("Recursive wall clock time = %f\n", seq_time);
+  printf("Pthreads %i threads %f time\n", n, seq_time);
   test();
 }
 

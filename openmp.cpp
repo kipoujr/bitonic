@@ -53,19 +53,13 @@ int main( int argc, char **argv ) {
   n = 1 << atoi(argv[2]);
 
   a = (int *) malloc( N * sizeof( int ) );
-  init();
-  gettimeofday( &startwtime, NULL );
-  qsort( a, N, sizeof( int ), asc );
-  gettimeofday( &endwtime, NULL );
-  seq_time = (double)( ( endwtime.tv_usec - startwtime.tv_usec ) / 1.0e6 + endwtime.tv_sec - startwtime.tv_sec );
-  printf( "Qsort wall clock time = %f\n", seq_time );
 
   init();
   gettimeofday( &startwtime, NULL );
   PimpBitonicSort();
   gettimeofday( &endwtime, NULL );
   seq_time = (double)( ( endwtime.tv_usec - startwtime.tv_usec ) / 1.0e6 + endwtime.tv_sec - startwtime.tv_sec );
-  printf( "Bitonic parallel imperative with %i threads wall clock time = %f\n", n,  seq_time );
+  printf( "OpenMP %i threads %f time\n", n,  seq_time );
   test();
 
 }
