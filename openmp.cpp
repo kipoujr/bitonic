@@ -59,7 +59,7 @@ int main( int argc, char **argv ) {
   PimpBitonicSort();
   gettimeofday( &endwtime, NULL );
   seq_time = (double)( ( endwtime.tv_usec - startwtime.tv_usec ) / 1.0e6 + endwtime.tv_sec - startwtime.tv_sec );
-  printf( "OpenMP %i threads %f time\n", n,  seq_time );
+  printf( "OpenMP %s threads %s size %f time\n", argv[2], argv[1], seq_time );
   test();
 
 }
