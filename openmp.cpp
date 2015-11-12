@@ -3,7 +3,7 @@
 #include <sys/time.h>
 #include <omp.h>
 
-#define MINPOW 22
+#define MINPOW 16
 #define MINK (1<<MINPOW)
 #define SIZE (1<<(MINPOW-1))
 
@@ -111,7 +111,7 @@ inline void exchange(int i, int j) {
 }
 
 void PimpBitonicSort() {
-  int itonos, i1, i, ij, j,k, maskj, maskk, fourthN, halfN, chunks;
+  int j,k, maskj, maskk, fourthN, halfN, chunks;
   fourthN = N>>2, halfN = N>>1;
 
   if ( N < MINK ) {
@@ -122,7 +122,7 @@ void PimpBitonicSort() {
   omp_set_num_threads( n );
   chunks = N / SIZE;
 #pragma omp parallel for
-  for (i=0; i<chunks; ++i) {
+  for (int i=0; i<chunks; ++i) {
     qsort( a + i*SIZE, SIZE, sizeof( int ), i%2?desc:asc );
   }
   
@@ -130,14 +130,14 @@ void PimpBitonicSort() {
     maskk = k-1;
     for (j=k>>1; j>0; j=j>>1) {
       maskj = j-1;
-#pragma omp parallel for private(i,ij,i1)
-      for (itonos=0; itonos<fourthN; itonos++) {
-	i1 = (itonos<<1) - (itonos&maskj);
+#pragma omp parallel for
+      for (int itonos=0; itonos<fourthN; itonos++) {
+	int i1 = (itonos<<1) - (itonos&maskj);
 	//Number with 0 at j-lsb
 
 	//Number with 0 at k
-	i = (i1<<1) - (i1&maskk);
-	ij=i^j;
+	int i = (i1<<1) - (i1&maskk);
+	int ij=i^j;
 	if (a[i] > a[ij]) {
 	  exchange(i,ij);
 	}
@@ -156,10 +156,10 @@ void PimpBitonicSort() {
   //That's because the on-bit of N is out of scope, so the code is simpler
   for (j=N>>1; j>0; j >>= 1) {
     maskj = j-1;
-#pragma omp parallel for private(i,ij)
-    for (itonos=0; itonos<halfN; ++itonos) {
-      i = (itonos<<1) - (itonos&maskj);
-      ij = i^j;
+#pragma omp parallel for
+    for (int itonos=0; itonos<halfN; ++itonos) {
+      int i = (itonos<<1) - (itonos&maskj);
+      int ij = i^j;
       if (a[i] > a[ij]) {
 	exchange(i,ij);
       }

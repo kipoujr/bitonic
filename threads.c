@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <sys/time.h>
 
-#define BASEPOW 13
+#define BASEPOW 16
 #define BASE (1<<BASEPOW)
 
 struct timeval startwtime, endwtime;
@@ -61,7 +61,7 @@ int main(int argc, char **argv) {
 
   init();
   gettimeofday (&startwtime, NULL);
-  qsort( a, N, sizeof( int ), asc );                                                                    
+  //qsort( a, N, sizeof( int ), asc );                                                                    
   gettimeofday (&endwtime, NULL);
   seq_time = (double)((endwtime.tv_usec - startwtime.tv_usec)/1.0e6
 		      + endwtime.tv_sec - startwtime.tv_sec);
@@ -179,6 +179,8 @@ void Merge(int lo, int cnt, int dir) {
   }
 }
 
+
+
 void* CompareThreadFunction ( void* arg ) {
   int lo = ((sortData *)arg)->lo;
   int cnt = ((sortData *)arg)->cnt;
@@ -189,8 +191,19 @@ void* CompareThreadFunction ( void* arg ) {
   }
 }
 
+void bitonicMergeSerial(int lo, int cnt, int dir) {
+  if ( cnt > 1 ) {
+    int i, k=cnt/2;
+    for ( i=lo; i<lo+k; ++i ) {
+      compare(i,i+k,dir);
+    }
+    bitonicMergeSerial(lo,k,dir);
+    bitonicMergeSerial(lo+k,k,dir);
+  }
+}
+
 void bitonicMerge(int lo, int cnt, int dir) {
-  int i, k=cnt/2;
+  int i, k=(cnt>>1), kt = (cnt>>2);
   
   pthread_mutex_lock (&mutex1);
   if ( cnt > BASE && activeThreads < n ) {
@@ -204,7 +217,7 @@ void bitonicMerge(int lo, int cnt, int dir) {
     comp.dir = dir;
     
     pthread_create( &threadComp, NULL, CompareThreadFunction, &comp);
-    for (i=lo; i<lo+k/2; i++)
+    for (i=lo; i<lo+kt; i++)
       compare(i, i+k, dir);
     pthread_join ( threadComp, NULL );
     
@@ -223,8 +236,9 @@ void bitonicMerge(int lo, int cnt, int dir) {
   }
   else {
     pthread_mutex_unlock(&mutex1);
-    //Merge(lo,cnt,dir);
-    qsort (a+lo,cnt,sizeof(int),dir==ASCENDING?asc:desc);
+    Merge(lo,cnt,dir);
+    //qsort (a+lo,cnt,sizeof(int),dir==ASCENDING?asc:desc);
+    //bitonicMergeSerial(lo,cnt,dir);
   }
 }
 
@@ -266,6 +280,7 @@ void recBitonicSort(int lo, int cnt, int dir) {
     else {
       pthread_mutex_unlock(&mutex1);
       qsort (a+lo,cnt,sizeof(int),dir==ASCENDING?asc:desc);
+      return;
     }
     bitonicMerge(lo, cnt, dir);
   }
