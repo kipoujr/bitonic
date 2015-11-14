@@ -4,7 +4,7 @@
 #include <cilk/cilk.h>
 #include <cilk/cilk_api.h>
 
-#define MINPOW 17
+#define MINPOW 20
 #define MINK (1<<MINPOW)
 #define SIZE (1<<(MINPOW-1))
 

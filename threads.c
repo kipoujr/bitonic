@@ -246,7 +246,7 @@ void* MergeThreadFunction ( void* arg ) {
 **/
 
 void recBitonicSort(int lo, int cnt, int dir) {
-  if (cnt>1) {
+  if (cnt>BASE) {
     int k=cnt/2;
     pthread_mutex_lock (&mutex1);
     if ( activeThreads < n ) {
@@ -274,6 +274,9 @@ void recBitonicSort(int lo, int cnt, int dir) {
       return;
     }
     bitonicMerge(lo, cnt, dir);
+  }
+  else {
+    qsort(a+lo,cnt,sizeof(int),dir==ASCENDING?asc:desc);
   }
 }
 

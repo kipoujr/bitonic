@@ -3,7 +3,7 @@
 #include <sys/time.h>
 #include <omp.h>
 
-#define MINPOW 16
+#define MINPOW 22
 #define MINK (1<<MINPOW)
 #define SIZE (1<<(MINPOW-1))
 

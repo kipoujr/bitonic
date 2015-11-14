@@ -1,0 +1,6274 @@
+Pthreads 1 threads 16 size 0.009329 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009183 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011116 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.006380 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.007968 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.010981 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.008468 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009335 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011618 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.007414 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009807 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011011 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.009059 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009249 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011009 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.010204 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009875 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011600 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.008841 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.006729 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011431 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.007219 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009345 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011144 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.008523 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.008703 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.010960 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.009482 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.007759 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.010901 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007467 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.012981 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011538 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.006453 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.010077 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011214 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007534 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.013258 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011199 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.006917 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.013198 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010895 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007486 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.012414 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010900 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007265 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.009278 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011039 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007365 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.009689 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010994 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007408 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.013350 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010907 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007473 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.010502 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011497 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007987 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.016100 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011474 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.006483 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.057842 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011119 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.006599 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.054350 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011686 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007201 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.055163 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011642 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.008143 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.056090 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011145 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007348 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.058384 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011169 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007112 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.058678 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.010990 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.006852 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.056064 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.010950 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.006707 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.057355 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011637 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.006979 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.055833 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011115 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007224 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.055068 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.010929 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.006176 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.008565 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010946 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008159 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009368 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011167 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008104 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009233 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011360 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.006910 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.008720 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010932 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008724 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009681 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011042 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.007356 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009390 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011816 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.007887 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.010090 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011026 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.009355 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.010228 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011540 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.006927 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.010464 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011150 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008440 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009450 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010948 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008188 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.012274 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011557 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008929 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.011210 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011595 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008639 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.012028 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.010876 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009998 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.012568 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011060 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008502 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.011904 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011198 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.010423 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.010635 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.010942 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009396 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.011172 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011440 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008702 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.010270 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011092 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.010982 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.009981 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011493 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009848 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.010571 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011074 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.012353 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012729 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.010953 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011000 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012881 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011149 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.014902 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.011937 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011120 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.012077 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.014496 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.010971 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011986 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012781 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011093 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.012993 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.011568 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.010995 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.009774 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012927 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011192 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011945 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012396 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011519 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011282 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012884 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011827 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011815 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.013448 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011064 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.016641 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.022312 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011105 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.024731 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.018573 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011064 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.024612 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.017438 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011073 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.016918 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.019296 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011144 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.026800 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.018724 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011548 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.027071 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.023775 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011513 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.023365 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.018064 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011174 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.020044 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.017871 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011102 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.021944 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.016964 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011461 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.020635 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.020724 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.010974 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.032571 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.031736 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011276 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.048527 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.030175 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011014 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.038895 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.023518 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.010991 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.034594 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.026344 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011196 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.043172 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.031677 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011774 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.049889 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.024102 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011176 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.040275 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.025006 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011093 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.044200 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.029727 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.010993 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.034773 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.039575 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011499 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.035383 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.025250 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011146 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.015416 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.015769 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.014537 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.014857 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.016033 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.014480 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016955 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018080 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.017226 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.013979 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.016058 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.017054 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.015412 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.016425 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015467 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016290 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018028 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.014468 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016243 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.017535 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015653 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.014167 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.016159 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015152 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016133 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018064 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.014664 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016376 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018902 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015928 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015613 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.013389 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.017853 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.014182 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.013187 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.017129 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015641 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.014260 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.015839 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015630 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.013153 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.017140 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.012323 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.012501 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.016821 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015744 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.015966 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.014964 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.013339 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.011770 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.017216 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015164 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.011512 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.015793 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.014500 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.014638 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.015309 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015771 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.015375 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.016363 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.012888 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.018877 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015582 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011397 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.018294 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.014654 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.013262 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.014878 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016103 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011693 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.020110 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016317 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.013498 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.018408 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016152 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.010292 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.020018 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016870 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.013356 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.017900 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015444 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011600 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.019450 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016224 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.012070 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.016350 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015993 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.013359 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.015839 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015569 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012140 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.015935 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.015984 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.014695 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016672 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.017219 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012672 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.018305 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.015916 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.010426 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.018893 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.016057 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012220 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.017004 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.016463 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.010956 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016837 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.017491 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.013987 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016633 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.018424 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.009333 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.017560 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.015994 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.013795 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.014694 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.017778 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012259 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.015563 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.015337 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.015891 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.020525 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.019036 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.012893 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.019838 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017642 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.018728 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.022020 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.016247 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.014855 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.023343 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017056 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.016809 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.017582 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.023869 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.014393 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.021374 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.021905 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.013846 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.019039 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.018341 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.011978 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.019465 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017250 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.010554 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.017724 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.016619 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.019965 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.020180 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017094 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.017058 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.024689 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.027319 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.017654 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.021656 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018691 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.017253 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.026683 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.028206 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.016639 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.029702 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.019261 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.013544 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.025384 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.029561 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.014977 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.025590 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.019193 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.020356 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.022924 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.029554 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.018845 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.025010 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.020698 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.016714 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.025574 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018563 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.020446 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.027975 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018958 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.029030 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.035383 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.022487 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.028926 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.034713 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.023006 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.030363 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.032640 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.035495 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.033616 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.032608 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.034810 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.024742 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.039760 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.034223 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.026296 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.031950 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.024551 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.022666 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.033255 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.035024 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.029887 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.031539 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.035659 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.025835 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.036521 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.025003 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.023841 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.030206 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.034067 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.054658 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.065908 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014801 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.051677 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.068484 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.015688 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.044306 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.045269 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.015214 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.054028 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.054039 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.018365 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.046100 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.049084 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.017221 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.051103 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.054762 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014553 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.048365 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.053542 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014946 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.052866 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.050255 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014610 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.040247 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.046926 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.017176 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.050431 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.047712 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.016567 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.028817 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038790 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036436 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.028971 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037634 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036850 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.031218 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038671 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036612 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.029594 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038632 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.035974 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.029208 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.039338 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.033645 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.029451 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.036625 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.034715 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030214 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.036778 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.034846 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.031487 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038240 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.035638 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030857 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037548 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036573 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.029137 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037579 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036415 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.027881 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.027740 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.023388 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.030313 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022391 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.026238 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.027459 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022717 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.026311 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.030852 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.026734 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.025712 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.032177 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022902 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.025239 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.028181 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.026412 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.028606 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.029818 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.023689 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.027646 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.027632 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.027529 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.024574 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.031930 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.023681 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.026372 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.027060 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.023178 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.024573 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027317 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.022595 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.023285 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.026651 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.028160 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.022264 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027877 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.041425 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.022290 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.021649 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.026398 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.022764 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.025676 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.031039 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.021102 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.017668 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.028189 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.023516 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.028807 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.018988 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.022930 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027967 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.021539 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.022773 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.018354 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.019477 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.023859 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027194 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.016056 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.023001 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.020514 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.023190 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.023078 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.020913 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024795 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.026132 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.018227 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024853 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.032783 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.022868 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.027316 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.024277 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.024362 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.025807 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.022697 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.022855 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024942 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.024686 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.024085 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024972 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.024362 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.022493 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.026662 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.024514 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.019134 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.026581 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.032530 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.017908 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.023792 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.022362 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.019641 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.033531 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.039181 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.020903 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.036126 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.024699 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.022254 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.032420 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.023897 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.024912 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.031088 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.026238 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.022038 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.031468 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.045226 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.023833 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.034128 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.028088 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.025066 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.032278 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.025382 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.027024 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.032817 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.036829 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.019620 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.033873 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.023352 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.026582 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.032638 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.028103 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.026501 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.046261 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.027907 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.025358 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.039418 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.038475 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.030928 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.041342 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.037237 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.028762 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.037549 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.026722 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.027364 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.037474 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.061389 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.025868 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.040520 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.027821 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.026607 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.040913 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.028319 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.029072 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.042110 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.030958 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.027603 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.038423 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.028173 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.028804 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.041891 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.026717 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.037413 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.056820 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.055343 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.040494 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.060988 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.067910 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.036436 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.051845 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.068645 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.045819 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.050292 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.045962 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.035577 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.050193 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.066134 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.034738 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.056083 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.057485 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.036020 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.053623 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.066450 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.046473 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.051640 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.065876 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.038380 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.056594 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.056808 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.036857 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.050331 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.044081 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.071035 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.096040 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.022437 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.061112 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.079892 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.022620 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.060731 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.078135 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.021761 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.061758 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.093090 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.024045 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.068507 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.073809 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023083 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.066891 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.077490 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023422 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.069908 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.083339 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.022144 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.062216 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.069946 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023295 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.064770 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.084114 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023107 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.051332 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.090572 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.020675 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060148 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085457 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.079488 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060812 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.083357 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.078618 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060042 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.084600 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.077213 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060461 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.084385 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.077391 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060339 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085549 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.077229 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060362 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.080541 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.076347 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060221 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.080932 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.075869 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.059661 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085832 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.080155 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.057017 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085879 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.077948 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.059810 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085265 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.075711 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.059072 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.044544 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.058628 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.055994 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.045502 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.060785 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.059940 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046607 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.060922 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.059587 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.044661 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.055764 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.059139 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.048067 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.057332 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.060771 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046994 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.057977 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.036691 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046111 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.061708 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.058911 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046416 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.058508 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.055635 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046861 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.060425 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.059883 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.044092 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.059240 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.038988 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.033198 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.048905 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.056162 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.034961 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.046386 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.034379 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.032937 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.039029 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.054644 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.031329 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.049616 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.056436 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.032367 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.041754 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.055649 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.051548 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042273 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.054631 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.038178 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042884 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.041870 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.033038 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.043651 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.055685 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.043871 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.040981 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.040168 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.032253 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042499 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.038405 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.046065 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.042268 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.037680 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.044250 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.049329 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.038409 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.048031 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.048701 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.038114 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.072779 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.080763 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.053166 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.193103 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.104638 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.069122 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.111772 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.100211 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.063053 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.090072 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.048113 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.060432 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.084835 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.085370 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.051812 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.076416 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.053144 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.051318 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.072266 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.056457 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.045635 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.081859 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.074948 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.063967 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.077948 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.101572 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.044680 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.071406 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.060251 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.045241 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.076772 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.068110 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.043985 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.086594 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.101438 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.042768 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.072595 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.094426 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.046292 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.071409 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.088206 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.043407 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.074110 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.054581 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.046689 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.060627 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.074360 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.038035 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.065163 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.053137 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.041815 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.086867 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.063382 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.056885 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.079191 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.087749 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.042771 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.093179 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.110012 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.054620 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.084347 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.062614 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.053307 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.079792 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.058414 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.041960 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.076222 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.010305 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009728 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011701 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007524 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.011195 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011042 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007472 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.056887 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011626 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.007233 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009575 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010958 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.010218 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.012697 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011304 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.015175 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.013155 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.010948 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.018097 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.019795 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011484 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.038511 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.032255 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011795 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010856 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.009327 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.008158 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011511 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007584 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.011420 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010983 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007149 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.058678 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011454 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008384 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.010074 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011388 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009958 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.011725 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011500 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011825 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.013348 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011451 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.020023 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.019422 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011514 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.048189 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.029692 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011214 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010826 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.009696 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009426 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.010933 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007431 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.010267 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010931 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007545 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.058637 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011335 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.006526 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009015 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010937 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009123 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.011128 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011415 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.013492 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.012618 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.010932 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.020104 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.019207 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.010977 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.037566 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.024995 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011156 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010845 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.008129 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.007908 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011143 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007412 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.014861 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.010937 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.006658 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.057454 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011325 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.006539 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009447 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011482 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008799 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.009156 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.010965 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.016662 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.013848 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011996 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.256888 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.087334 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011087 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.067506 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.138648 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.013050 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.012246 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.009516 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.029859 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011136 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.013201 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.067431 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011491 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.012463 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.061167 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011110 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.009850 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.025461 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011943 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.012724 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.012643 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011504 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.012857 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.011968 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011818 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.034111 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.116096 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011052 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.039615 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.024996 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011438 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010840 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.009042 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009421 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.010883 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007276 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.008186 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011478 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.008149 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.055936 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.010918 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.007011 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.008466 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011104 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009605 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.009961 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.010949 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.010663 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.014985 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011522 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.020171 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.016666 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011535 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.042471 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.038843 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011389 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010846 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.008344 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.009754 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011407 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007377 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.009872 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011066 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007730 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.055678 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.010964 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.007493 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.009288 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010941 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.008791 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.011015 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011352 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.011146 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.013717 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.010993 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.087759 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.017919 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.010997 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.026597 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.073267 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.010918 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010843 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.011362 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.038804 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.010959 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.011701 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.041242 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.021645 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.013579 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.196121 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011380 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.012407 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.018427 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.010989 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.017272 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.010070 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.014346 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.021585 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.015581 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011066 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.025314 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.017750 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011034 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.035622 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.027228 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011065 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.011887 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.012746 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.007966 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.013072 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007736 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.088764 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.015876 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.008682 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.063430 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011118 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008271 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.011710 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.011651 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.009702 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.010002 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011051 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.020806 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.014161 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011531 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.021093 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.022195 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011230 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.067250 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.026875 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.011083 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.012509 time
+ TEST PASSed
+Pthreads 1 threads 16 size 0.008270 time
+ TEST PASSed
+OpenMP 1 threads 16 size 0.007474 time
+ TEST PASSed
+Cilk 1 threads 16 size 0.011857 time
+ TEST PASSed
+Pthreads 2 threads 16 size 0.007499 time
+ TEST PASSed
+OpenMP 2 threads 16 size 0.013155 time
+ TEST PASSed
+Cilk 2 threads 16 size 0.011390 time
+ TEST PASSed
+Pthreads 3 threads 16 size 0.007832 time
+ TEST PASSed
+OpenMP 3 threads 16 size 0.066159 time
+ TEST PASSed
+Cilk 3 threads 16 size 0.011875 time
+ TEST PASSed
+Pthreads 4 threads 16 size 0.008523 time
+ TEST PASSed
+OpenMP 4 threads 16 size 0.011718 time
+ TEST PASSed
+Cilk 4 threads 16 size 0.012527 time
+ TEST PASSed
+Pthreads 5 threads 16 size 0.012244 time
+ TEST PASSed
+OpenMP 5 threads 16 size 0.020071 time
+ TEST PASSed
+Cilk 5 threads 16 size 0.011125 time
+ TEST PASSed
+Pthreads 6 threads 16 size 0.020008 time
+ TEST PASSed
+OpenMP 6 threads 16 size 0.022582 time
+ TEST PASSed
+Cilk 6 threads 16 size 0.011312 time
+ TEST PASSed
+Pthreads 7 threads 16 size 0.028958 time
+ TEST PASSed
+OpenMP 7 threads 16 size 0.018916 time
+ TEST PASSed
+Cilk 7 threads 16 size 0.011163 time
+ TEST PASSed
+Pthreads 8 threads 16 size 0.041450 time
+ TEST PASSed
+OpenMP 8 threads 16 size 0.025048 time
+ TEST PASSed
+Cilk 8 threads 16 size 0.010928 time
+ TEST PASSed
+Qsort 0 threads 16 size 0.010846 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.017079 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.017367 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015246 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.013025 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.015836 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.015147 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.014641 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.015531 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016853 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.011635 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016668 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.015911 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.013309 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.018785 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017312 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.017915 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.027079 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018394 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.021154 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.036546 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.025577 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.043966 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.058904 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.016445 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022762 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.015682 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.017953 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.016170 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015995 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.014036 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.017204 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011937 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.020058 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015728 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.013393 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.015185 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.014847 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.016281 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.017319 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.016212 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.014071 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.022934 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018471 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.025325 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.037302 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.023168 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.047581 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.066391 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014980 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022661 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.014263 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.017654 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015059 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.013526 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.013450 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.018769 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011330 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.015054 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015566 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.011506 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.017282 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.016546 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.015307 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.020358 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.018862 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.019863 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.024002 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018300 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.030868 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.031237 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.022280 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.042262 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.046423 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.019541 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022828 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.014350 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018093 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.017249 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.013061 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.014073 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.014933 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.013471 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.014210 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016355 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012986 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.017455 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.015062 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.015232 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.017444 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.016992 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.015513 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.029064 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.030074 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.031528 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.032839 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.022785 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.052616 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.057679 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.015853 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022757 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.015525 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.017754 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.016129 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015507 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.011488 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.014636 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.012814 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.018437 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016416 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012110 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016017 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.017741 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.014392 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.020810 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.026918 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.019106 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.024747 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.020513 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.022790 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.036483 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.025552 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.052198 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.067665 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014357 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022725 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.015170 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.016756 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.017620 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015123 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.011196 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.014317 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.012036 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.015281 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.014430 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.012716 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.017131 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.018668 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.014121 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.025035 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.025205 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.015501 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.024391 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.019065 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.033516 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.038446 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.034490 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.053853 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.058963 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.017718 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022720 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016149 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.017731 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.015828 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015134 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.011622 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.016020 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011921 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.018735 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.016182 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.011252 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.017373 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.016634 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.012543 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.019097 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.016508 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.021456 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.022330 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.019115 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.023744 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.029737 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.027918 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.063135 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.061708 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.016534 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022832 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016922 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.015327 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.017776 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.015698 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.011182 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.016924 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.012243 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.013792 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.014875 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.015632 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016634 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.014929 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.014675 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.017972 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017252 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.017022 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.023940 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.018974 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.026330 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.043285 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.034767 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.047057 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.046794 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.014769 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022913 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016840 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018592 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.016956 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.014797 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.014283 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.015530 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.013393 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.016665 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.015723 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.013968 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.018047 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.014806 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.016642 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.021290 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.018637 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.017031 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.026198 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.019170 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.021799 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.029842 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.024188 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.036307 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.063914 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.019442 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022771 time
+ TEST PASSed
+Pthreads 1 threads 17 size 0.016607 time
+ TEST PASSed
+OpenMP 1 threads 17 size 0.018763 time
+ TEST PASSed
+Cilk 1 threads 17 size 0.016383 time
+ TEST PASSed
+Pthreads 2 threads 17 size 0.014970 time
+ TEST PASSed
+OpenMP 2 threads 17 size 0.013051 time
+ TEST PASSed
+Cilk 2 threads 17 size 0.017053 time
+ TEST PASSed
+Pthreads 3 threads 17 size 0.011741 time
+ TEST PASSed
+OpenMP 3 threads 17 size 0.017862 time
+ TEST PASSed
+Cilk 3 threads 17 size 0.017086 time
+ TEST PASSed
+Pthreads 4 threads 17 size 0.010966 time
+ TEST PASSed
+OpenMP 4 threads 17 size 0.016989 time
+ TEST PASSed
+Cilk 4 threads 17 size 0.017054 time
+ TEST PASSed
+Pthreads 5 threads 17 size 0.013565 time
+ TEST PASSed
+OpenMP 5 threads 17 size 0.019019 time
+ TEST PASSed
+Cilk 5 threads 17 size 0.017898 time
+ TEST PASSed
+Pthreads 6 threads 17 size 0.022739 time
+ TEST PASSed
+OpenMP 6 threads 17 size 0.025255 time
+ TEST PASSed
+Cilk 6 threads 17 size 0.030685 time
+ TEST PASSed
+Pthreads 7 threads 17 size 0.023362 time
+ TEST PASSed
+OpenMP 7 threads 17 size 0.034485 time
+ TEST PASSed
+Cilk 7 threads 17 size 0.034635 time
+ TEST PASSed
+Pthreads 8 threads 17 size 0.050897 time
+ TEST PASSed
+OpenMP 8 threads 17 size 0.055784 time
+ TEST PASSed
+Cilk 8 threads 17 size 0.015924 time
+ TEST PASSed
+Qsort 0 threads 17 size 0.022759 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030799 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038381 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.034418 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.028006 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022756 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.028949 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027897 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.018979 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.021708 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.021939 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.027059 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.024478 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.021294 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.034909 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.025126 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.024541 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.037292 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.028938 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.040598 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.054370 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.033387 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.075302 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.073063 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023735 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047627 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.031520 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.036760 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.035083 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.032183 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022069 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.023815 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.020040 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.038419 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.020963 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.021976 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.023883 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.025486 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.029906 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.033364 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.035538 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.030165 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.042466 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.028351 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.041921 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.051472 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.066874 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.049005 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.086075 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.021302 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047686 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.029584 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037570 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036153 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.030460 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.021735 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.024023 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.028352 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.028314 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.024330 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.017885 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.028351 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.022736 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.024114 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.031592 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.037355 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.025626 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.039491 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.049724 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.042052 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.052225 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.034328 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.063352 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.087970 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.022457 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047634 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.028863 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037570 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036631 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.031967 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.024439 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.026120 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.018906 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.019414 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.025469 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.019984 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.030527 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.025354 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.026203 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.031834 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.034917 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.028029 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.038290 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.027690 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.036670 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.056321 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.066377 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.067219 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.083520 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.024354 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047638 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.031513 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038668 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.035027 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.026529 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022358 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.024871 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027910 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.030586 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.029327 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.018650 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.025029 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.035090 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.022448 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.033230 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.025969 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.025400 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.041752 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.059045 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.036798 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.051376 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.068147 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.067655 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.099334 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.021814 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047772 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030078 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.035244 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.036444 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.030413 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.020783 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.026336 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027242 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.019754 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.024713 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.023592 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.026851 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.034627 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.021764 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.034404 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.036831 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.024710 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.042664 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.029229 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.039390 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.052976 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.042637 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.062001 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.074644 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.021567 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047683 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030833 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.036724 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.034683 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.029601 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.020086 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.023912 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.020976 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.029302 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.022972 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.023392 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024974 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.023417 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.019777 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.039386 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.025381 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.024891 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.039935 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.061431 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.035314 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.050576 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.064424 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.074578 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.083038 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023076 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047869 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.031220 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.038615 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.033616 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.027561 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.021142 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.027104 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027189 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.020912 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.025178 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.023726 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.027550 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.024005 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.023153 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.033921 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.029012 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.028809 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.044188 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.060688 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.045313 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.053605 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.066989 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.063633 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.073117 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.023575 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047789 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030254 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037843 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.033818 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.031861 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.026553 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.025772 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027534 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.019299 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.020900 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.025728 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024029 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.023817 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.022472 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.033494 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.036392 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.028529 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.040225 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.040135 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.040351 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.052302 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.067965 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.067555 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.073909 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.020902 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047882 time
+ TEST PASSed
+Pthreads 1 threads 18 size 0.030839 time
+ TEST PASSed
+OpenMP 1 threads 18 size 0.037800 time
+ TEST PASSed
+Cilk 1 threads 18 size 0.035087 time
+ TEST PASSed
+Pthreads 2 threads 18 size 0.029599 time
+ TEST PASSed
+OpenMP 2 threads 18 size 0.022337 time
+ TEST PASSed
+Cilk 2 threads 18 size 0.025311 time
+ TEST PASSed
+Pthreads 3 threads 18 size 0.027818 time
+ TEST PASSed
+OpenMP 3 threads 18 size 0.042568 time
+ TEST PASSed
+Cilk 3 threads 18 size 0.020663 time
+ TEST PASSed
+Pthreads 4 threads 18 size 0.022251 time
+ TEST PASSed
+OpenMP 4 threads 18 size 0.024945 time
+ TEST PASSed
+Cilk 4 threads 18 size 0.026987 time
+ TEST PASSed
+Pthreads 5 threads 18 size 0.023611 time
+ TEST PASSed
+OpenMP 5 threads 18 size 0.031297 time
+ TEST PASSed
+Cilk 5 threads 18 size 0.037552 time
+ TEST PASSed
+Pthreads 6 threads 18 size 0.029845 time
+ TEST PASSed
+OpenMP 6 threads 18 size 0.040672 time
+ TEST PASSed
+Cilk 6 threads 18 size 0.041152 time
+ TEST PASSed
+Pthreads 7 threads 18 size 0.040789 time
+ TEST PASSed
+OpenMP 7 threads 18 size 0.051260 time
+ TEST PASSed
+Cilk 7 threads 18 size 0.035309 time
+ TEST PASSed
+Pthreads 8 threads 18 size 0.067114 time
+ TEST PASSed
+OpenMP 8 threads 18 size 0.074272 time
+ TEST PASSed
+Cilk 8 threads 18 size 0.022351 time
+ TEST PASSed
+Qsort 0 threads 18 size 0.047758 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060590 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085657 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.077618 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.061931 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.053241 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.059381 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.058283 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.033994 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.045431 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.043697 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.043213 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.052722 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.037374 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.053478 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.061666 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.042187 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.074829 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.047246 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.057517 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.099048 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.098834 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.096430 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.124093 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.046299 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100375 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060185 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085013 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.079715 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.061207 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.049375 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.059012 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.036011 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.035360 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.041794 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.030517 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.043912 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.045058 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.033434 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.063655 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.097568 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.042738 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.067894 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.068380 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.058619 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.090565 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.079828 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.072601 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.122305 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.041549 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100084 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.058412 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.083803 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.076894 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.057877 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.050512 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.058821 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.054316 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.034941 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042250 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.041610 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.044116 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.049359 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.048575 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.057832 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.065242 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.045385 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.073817 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.066816 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.061846 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.091560 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.132266 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.086272 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.132843 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.042847 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.105459 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.060516 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.083822 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.078353 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.058980 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046500 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.059841 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.054605 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.030016 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042963 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.039502 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.046787 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.054692 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.039839 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.054960 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.046512 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.040695 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.074282 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.049728 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.056394 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.091709 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.117625 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.082806 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.129514 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.042540 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100592 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.061179 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.084529 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.076930 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.057609 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046355 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.055784 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.057319 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.033980 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042636 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.041272 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.041865 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.059763 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.037452 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.057352 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.072712 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.049267 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.066084 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.088480 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.058878 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.093494 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.132510 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.076945 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.125365 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.041631 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100242 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.056988 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.080904 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.073969 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.060518 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.046817 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.057951 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.054153 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.029387 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.042000 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.036653 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.042699 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.042052 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.036854 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.062359 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.068819 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.046403 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.071950 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.120668 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.058025 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.094714 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.117252 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.081894 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.122278 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.047497 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.099965 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.057929 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.082660 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.075571 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.060755 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.045888 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.061055 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.055926 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.030248 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.044879 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.038407 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.046956 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.052904 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.036576 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.060020 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.042924 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.054920 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.074600 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.046720 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.055577 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.092796 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.095170 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.087365 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.117492 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.039103 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.099991 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.058657 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.079756 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.073679 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.058924 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.049257 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.061787 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.061256 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.253820 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.048083 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.037982 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.056637 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.057513 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.049066 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.079711 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.065155 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.048948 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.087914 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.054620 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.054647 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.091247 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.097547 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.088589 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.149611 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.052401 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100411 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.056511 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.082019 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.080237 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.066541 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.048641 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.051762 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.056142 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.245848 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.047794 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.035741 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.055104 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.051550 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.051891 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.067151 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.054690 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.056906 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.076354 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.056024 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.078189 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.108007 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.142165 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.098853 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.153732 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.062531 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100328 time
+ TEST PASSed
+Pthreads 1 threads 19 size 0.055886 time
+ TEST PASSed
+OpenMP 1 threads 19 size 0.085909 time
+ TEST PASSed
+Cilk 1 threads 19 size 0.083196 time
+ TEST PASSed
+Pthreads 2 threads 19 size 0.056405 time
+ TEST PASSed
+OpenMP 2 threads 19 size 0.061136 time
+ TEST PASSed
+Cilk 2 threads 19 size 0.061970 time
+ TEST PASSed
+Pthreads 3 threads 19 size 0.054927 time
+ TEST PASSed
+OpenMP 3 threads 19 size 0.252305 time
+ TEST PASSed
+Cilk 3 threads 19 size 0.046937 time
+ TEST PASSed
+Pthreads 4 threads 19 size 0.036990 time
+ TEST PASSed
+OpenMP 4 threads 19 size 0.055702 time
+ TEST PASSed
+Cilk 4 threads 19 size 0.053695 time
+ TEST PASSed
+Pthreads 5 threads 19 size 0.045108 time
+ TEST PASSed
+OpenMP 5 threads 19 size 0.059104 time
+ TEST PASSed
+Cilk 5 threads 19 size 0.088085 time
+ TEST PASSed
+Pthreads 6 threads 19 size 0.042623 time
+ TEST PASSed
+OpenMP 6 threads 19 size 0.078921 time
+ TEST PASSed
+Cilk 6 threads 19 size 0.055849 time
+ TEST PASSed
+Pthreads 7 threads 19 size 0.067788 time
+ TEST PASSed
+OpenMP 7 threads 19 size 0.093009 time
+ TEST PASSed
+Cilk 7 threads 19 size 0.120569 time
+ TEST PASSed
+Pthreads 8 threads 19 size 0.095458 time
+ TEST PASSed
+OpenMP 8 threads 19 size 0.206177 time
+ TEST PASSed
+Cilk 8 threads 19 size 0.050693 time
+ TEST PASSed
+Qsort 0 threads 19 size 0.100325 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.120717 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.185376 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.175267 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.117281 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.120319 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.119537 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.114425 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.174823 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.125096 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.087005 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.167114 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.124152 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.094116 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.140170 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.121907 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.075086 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.158812 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.139844 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.105190 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.171772 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.343157 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.144904 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.213897 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.113576 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.212391 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.117759 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.181848 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.169812 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.122899 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.100838 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.270714 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.113825 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.090484 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.099801 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.084972 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.220982 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.124053 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.083437 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.140168 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.198539 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.094113 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.152662 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.138657 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.092795 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.231916 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.284188 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.169928 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.251730 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.101348 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.211301 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.116331 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.180898 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.166625 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.119823 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.098787 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.114825 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.114635 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.356580 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.100635 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.081822 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.093065 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.108637 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.068440 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.127727 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.116237 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.084166 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.142044 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.118826 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.109196 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.163018 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.185460 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.100791 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.212954 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.103648 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.210587 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.114279 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.178835 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.168959 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.117043 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.101376 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.134280 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.113738 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.356057 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.102698 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.087542 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.128262 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.125845 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.095232 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.124611 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.116516 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.088800 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.178223 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.211065 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.161649 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.174083 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.280061 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.111065 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.210815 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.140159 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.210188 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.116735 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.221693 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.203017 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.125200 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.098172 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.135732 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.115706 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.628164 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.125324 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.085259 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.135526 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.224610 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.087512 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.113590 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.160885 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.118585 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.289092 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.144266 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.140673 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.239852 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.283691 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.143862 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.293704 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.136116 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.211624 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.116228 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.194307 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.179572 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.123584 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.111795 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.142501 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.123698 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.143010 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.112477 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.075298 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.101236 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.104349 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.091729 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.124765 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.150039 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.068685 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.142252 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.164677 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.101891 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.178295 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.255629 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.124608 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.224773 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.104028 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.210571 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.118934 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.181987 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.171021 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.115297 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.101225 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.128140 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.113275 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.352048 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.095347 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.080256 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.096173 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.121527 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.069246 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.132606 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.149008 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.095095 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.136680 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.156926 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.086697 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.178505 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.186166 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.143037 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.216321 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.096459 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.210404 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.114342 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.178998 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.165162 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.116911 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.113363 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.128497 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.115877 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.112625 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.099699 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.078299 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.096560 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.114746 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.069832 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.127065 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.162225 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.091521 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.147369 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.149093 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.100478 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.163687 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.198246 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.115591 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.321225 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.129404 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.211805 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.113663 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.189015 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.176507 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.118862 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.098291 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.129238 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.121430 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.142528 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.153294 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.127103 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.106698 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.116034 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.083881 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.115698 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.134670 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.078921 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.305034 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.172080 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.119654 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.218964 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.167331 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.137800 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.231475 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.103329 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.210673 time
+ TEST PASSed
+Pthreads 1 threads 20 size 0.126795 time
+ TEST PASSed
+OpenMP 1 threads 20 size 0.187229 time
+ TEST PASSed
+Cilk 1 threads 20 size 0.173553 time
+ TEST PASSed
+Pthreads 2 threads 20 size 0.118342 time
+ TEST PASSed
+OpenMP 2 threads 20 size 0.101269 time
+ TEST PASSed
+Cilk 2 threads 20 size 0.124886 time
+ TEST PASSed
+Pthreads 3 threads 20 size 0.115759 time
+ TEST PASSed
+OpenMP 3 threads 20 size 0.557563 time
+ TEST PASSed
+Cilk 3 threads 20 size 0.215839 time
+ TEST PASSed
+Pthreads 4 threads 20 size 0.143773 time
+ TEST PASSed
+OpenMP 4 threads 20 size 0.180567 time
+ TEST PASSed
+Cilk 4 threads 20 size 0.125172 time
+ TEST PASSed
+Pthreads 5 threads 20 size 0.121198 time
+ TEST PASSed
+OpenMP 5 threads 20 size 0.130468 time
+ TEST PASSed
+Cilk 5 threads 20 size 0.140021 time
+ TEST PASSed
+Pthreads 6 threads 20 size 0.070487 time
+ TEST PASSed
+OpenMP 6 threads 20 size 0.149553 time
+ TEST PASSed
+Cilk 6 threads 20 size 0.113586 time
+ TEST PASSed
+Pthreads 7 threads 20 size 0.079664 time
+ TEST PASSed
+OpenMP 7 threads 20 size 0.702978 time
+ TEST PASSed
+Cilk 7 threads 20 size 0.469812 time
+ TEST PASSed
+Pthreads 8 threads 20 size 0.195021 time
+ TEST PASSed
+OpenMP 8 threads 20 size 0.324695 time
+ TEST PASSed
+Cilk 8 threads 20 size 0.119579 time
+ TEST PASSed
+Qsort 0 threads 20 size 0.211058 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.240516 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.416639 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.580173 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.245752 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.249164 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.313682 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.248347 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.156549 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.209086 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.235841 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.182619 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.260834 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.157041 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.410654 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.435286 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.172193 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.379883 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.326229 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.234464 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.410587 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.491615 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.317446 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.383513 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.201596 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.444386 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.240012 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.407104 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.379959 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.235613 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.217785 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.302414 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.243890 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.123244 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.199538 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.239369 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.153853 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.287987 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.138215 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.212249 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.248813 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.123802 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.247212 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.403055 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.155603 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.268732 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.331799 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.255632 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.430838 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.202931 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.447653 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.241783 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.418365 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.391080 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.237843 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.218986 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.300213 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.234384 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.127582 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.201205 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.152336 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.156636 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.233327 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.170365 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.214955 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.286949 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.164958 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.285577 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.277990 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.165937 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.291513 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.395460 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.212343 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.377920 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.203497 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.444212 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.242666 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.417657 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.391110 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.237822 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.217106 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.308472 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.234683 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.126448 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.195610 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.138099 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.152385 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.235941 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.120432 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.214475 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.227056 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.115434 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.236884 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.323329 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.174370 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.302918 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.397883 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.245615 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.360982 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.202445 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.448300 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.243814 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.408135 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.392338 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.234589 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.218787 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.308432 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.238388 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.118884 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.202064 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.238403 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.148356 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.272013 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.158184 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.212318 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.267128 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.143310 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.247684 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.284561 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.194590 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.274065 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.460403 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.218989 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.435426 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.197061 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.445036 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.238674 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.408617 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.394788 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.236549 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.215906 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.306938 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.241405 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.130851 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.203116 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.139746 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.176080 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.239704 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.147691 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.247197 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.248690 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.167392 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.228387 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.297971 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.152169 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.315236 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.376474 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.200006 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.367456 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.201585 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.444126 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.242190 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.408424 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.392042 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.238092 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.216031 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.309605 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.235071 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.126062 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.198896 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.149009 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.148363 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.226269 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.171059 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.200017 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.260049 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.133344 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.255540 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.326262 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.152491 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.294395 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.427878 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.179248 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.386964 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.205996 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.444971 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.237715 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.408859 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.387808 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.242645 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.216631 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.306616 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.235811 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.119478 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.197062 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.147481 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.158487 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.247525 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.128056 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.200859 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.267980 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.158899 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.244164 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.269623 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.174219 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.290250 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.411315 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.239952 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.396341 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.194892 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.445200 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.242216 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.416391 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.391452 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.236823 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.217117 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.308101 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.240487 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.127393 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.201748 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.148745 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.147576 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.216804 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.178456 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.210769 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.269264 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.146874 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.235716 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.350385 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.174905 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.281133 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.455615 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.211013 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.392206 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.200222 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.444163 time
+ TEST PASSed
+Pthreads 1 threads 21 size 0.242488 time
+ TEST PASSed
+OpenMP 1 threads 21 size 0.419876 time
+ TEST PASSed
+Cilk 1 threads 21 size 0.394707 time
+ TEST PASSed
+Pthreads 2 threads 21 size 0.235512 time
+ TEST PASSed
+OpenMP 2 threads 21 size 0.218139 time
+ TEST PASSed
+Cilk 2 threads 21 size 0.302406 time
+ TEST PASSed
+Pthreads 3 threads 21 size 0.236839 time
+ TEST PASSed
+OpenMP 3 threads 21 size 0.121064 time
+ TEST PASSed
+Cilk 3 threads 21 size 0.199818 time
+ TEST PASSed
+Pthreads 4 threads 21 size 0.138892 time
+ TEST PASSed
+OpenMP 4 threads 21 size 0.149267 time
+ TEST PASSed
+Cilk 4 threads 21 size 0.228629 time
+ TEST PASSed
+Pthreads 5 threads 21 size 0.120182 time
+ TEST PASSed
+OpenMP 5 threads 21 size 0.206270 time
+ TEST PASSed
+Cilk 5 threads 21 size 0.276074 time
+ TEST PASSed
+Pthreads 6 threads 21 size 0.163811 time
+ TEST PASSed
+OpenMP 6 threads 21 size 0.237170 time
+ TEST PASSed
+Cilk 6 threads 21 size 0.326804 time
+ TEST PASSed
+Pthreads 7 threads 21 size 0.171962 time
+ TEST PASSed
+OpenMP 7 threads 21 size 0.329369 time
+ TEST PASSed
+Cilk 7 threads 21 size 0.406004 time
+ TEST PASSed
+Pthreads 8 threads 21 size 0.257855 time
+ TEST PASSed
+OpenMP 8 threads 21 size 0.373437 time
+ TEST PASSed
+Cilk 8 threads 21 size 0.198071 time
+ TEST PASSed
+Qsort 0 threads 21 size 0.444900 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.502735 time
+ TEST PASSed
+OpenMP 1 threads 22 size 0.995018 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.926860 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.481643 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.477702 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.666906 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.483167 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.261869 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.448428 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.282899 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.292363 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.473320 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.282553 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.401152 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.662489 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.343451 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.473736 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.614350 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.302941 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.558116 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.681257 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.404864 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.678217 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.438898 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.934862 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.497399 time
+ TEST PASSed
+OpenMP 1 threads 22 size 0.994144 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.936580 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.484875 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.471764 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.675434 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.482411 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.268039 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.442657 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.280933 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.285323 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.485070 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.295886 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.399020 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.547115 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.306895 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.433620 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.881049 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.350646 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.555359 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.748071 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.348610 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.657875 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.447135 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.937019 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.501108 time
+ TEST PASSed
+OpenMP 1 threads 22 size 1.063356 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.934861 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.486715 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.471223 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.665255 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.485794 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.261634 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.445576 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.289119 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.321097 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.480537 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.314945 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.392734 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.594533 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.240102 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.438905 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.650410 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.313902 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.692848 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.849164 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.435553 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.668949 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.437288 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.934781 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.500263 time
+ TEST PASSed
+OpenMP 1 threads 22 size 1.000488 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.930008 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.492351 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.474459 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.666072 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.501929 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.268999 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.438458 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.277447 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.361804 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.469456 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.308221 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.438701 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.762764 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.298254 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.456435 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.650578 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.292837 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.624057 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.754865 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.394655 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.678570 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.449688 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.932049 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.502066 time
+ TEST PASSed
+OpenMP 1 threads 22 size 1.000899 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.991790 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.494021 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.471442 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.673320 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.493414 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.262895 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.446925 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.287341 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.370938 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.520437 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.242671 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.411162 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.566913 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.344712 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.462895 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.697959 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.340305 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.570161 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.867660 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.302608 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.691645 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.446672 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.934765 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.499791 time
+ TEST PASSed
+OpenMP 1 threads 22 size 0.996984 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.929944 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.486368 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.477434 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.675333 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.489083 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.259788 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.437395 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.497115 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.320829 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.484291 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.307577 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.406179 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.611450 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.263012 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.471585 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.653906 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.312794 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.579453 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.852976 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.352006 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.646111 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.441656 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.932830 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.497271 time
+ TEST PASSed
+OpenMP 1 threads 22 size 1.068455 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.937580 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.490767 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.477903 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.662269 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.488949 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.255223 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.442873 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.291500 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.347257 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.476499 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.303663 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.407409 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.538503 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.304886 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.456373 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.634545 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.295826 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.580252 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.962430 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.395782 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.678596 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.442358 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.936426 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.500051 time
+ TEST PASSed
+OpenMP 1 threads 22 size 0.992014 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.989427 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.495666 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.490468 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.671456 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.488189 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.260037 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.442200 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.280810 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.361984 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.485300 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.219925 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.396810 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.557387 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.258977 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.447843 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.694139 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.273094 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.623260 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.749697 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.422437 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.673857 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.440022 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.936319 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.499743 time
+ TEST PASSed
+OpenMP 1 threads 22 size 0.992784 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.934346 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.489994 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.479311 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.666407 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.482659 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.262468 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.439617 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.284468 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.289801 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.466993 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.223137 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.393784 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.579979 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.357753 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.448362 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.627930 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.288235 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.630831 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.795361 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.393847 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.816208 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.441314 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.932696 time
+ TEST PASSed
+Pthreads 1 threads 22 size 0.501733 time
+ TEST PASSed
+OpenMP 1 threads 22 size 0.999830 time
+ TEST PASSed
+Cilk 1 threads 22 size 0.997892 time
+ TEST PASSed
+Pthreads 2 threads 22 size 0.490774 time
+ TEST PASSed
+OpenMP 2 threads 22 size 0.476678 time
+ TEST PASSed
+Cilk 2 threads 22 size 0.664251 time
+ TEST PASSed
+Pthreads 3 threads 22 size 0.491885 time
+ TEST PASSed
+OpenMP 3 threads 22 size 0.264991 time
+ TEST PASSed
+Cilk 3 threads 22 size 0.448474 time
+ TEST PASSed
+Pthreads 4 threads 22 size 0.287559 time
+ TEST PASSed
+OpenMP 4 threads 22 size 0.386157 time
+ TEST PASSed
+Cilk 4 threads 22 size 0.476495 time
+ TEST PASSed
+Pthreads 5 threads 22 size 0.306634 time
+ TEST PASSed
+OpenMP 5 threads 22 size 0.401111 time
+ TEST PASSed
+Cilk 5 threads 22 size 0.589555 time
+ TEST PASSed
+Pthreads 6 threads 22 size 0.284528 time
+ TEST PASSed
+OpenMP 6 threads 22 size 0.475058 time
+ TEST PASSed
+Cilk 6 threads 22 size 0.609465 time
+ TEST PASSed
+Pthreads 7 threads 22 size 0.295629 time
+ TEST PASSed
+OpenMP 7 threads 22 size 0.572013 time
+ TEST PASSed
+Cilk 7 threads 22 size 0.940692 time
+ TEST PASSed
+Pthreads 8 threads 22 size 0.401284 time
+ TEST PASSed
+OpenMP 8 threads 22 size 0.684065 time
+ TEST PASSed
+Cilk 8 threads 22 size 0.437270 time
+ TEST PASSed
+Qsort 0 threads 22 size 0.936226 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.038626 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.329042 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.387974 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.024674 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.469644 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.500635 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.019943 time
+ TEST PASSed
+OpenMP 3 threads 23 size 1.262692 time
+ TEST PASSed
+Cilk 3 threads 23 size 1.122909 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.626657 time
+ TEST PASSed
+OpenMP 4 threads 23 size 1.449755 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.190621 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.643268 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.249384 time
+ TEST PASSed
+Cilk 5 threads 23 size 2.293087 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.687404 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.230284 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.416167 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.812545 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.549337 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.601595 time
+ TEST PASSed
+Pthreads 8 threads 23 size 1.080627 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.565430 time
+ TEST PASSed
+Cilk 8 threads 23 size 1.145300 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.990552 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.034983 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.310443 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.136913 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.009732 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.606757 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.470381 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.024304 time
+ TEST PASSed
+OpenMP 3 threads 23 size 1.251471 time
+ TEST PASSed
+Cilk 3 threads 23 size 1.249671 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.616651 time
+ TEST PASSed
+OpenMP 4 threads 23 size 1.273310 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.493521 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.815996 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.227907 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.637745 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.720880 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.524828 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.282729 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.719070 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.183056 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.738382 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.654496 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.410947 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.981715 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.957125 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.052430 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.578905 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.119906 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.022987 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.228683 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.318101 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.022786 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.918173 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.984265 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.576892 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.961736 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.004978 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.578071 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.010854 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.237176 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.518932 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.101033 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.274760 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.551900 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.189279 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.480117 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.783640 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.523606 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.982006 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.962387 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.057090 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.261740 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.137756 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.015100 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.233235 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.324415 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.008458 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.925066 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.985209 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.550410 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.949174 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.012820 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.580995 time
+ TEST PASSed
+OpenMP 5 threads 23 size 0.999948 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.339636 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.551709 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.084883 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.362877 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.600094 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.216631 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.585033 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.810061 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.560420 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.986146 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.963192 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.058729 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.268570 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.152277 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.017284 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.232113 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.321904 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.006010 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.913365 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.981920 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.579300 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.945625 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.033291 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.558899 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.015449 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.177925 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.529941 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.118654 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.186965 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.657242 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.241616 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.524226 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.634772 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.500220 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.979536 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.964631 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.038095 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.284202 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.134524 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.008461 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.232529 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.323978 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.015972 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.919337 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.981322 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.546267 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.943343 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.026976 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.606519 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.030286 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.242113 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.624122 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.094597 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.422443 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.629615 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.300637 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.805161 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.602502 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.321363 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.976460 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.955450 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.057521 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.280349 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.419989 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.018558 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.231256 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.327513 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.023696 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.917327 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.984968 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.562478 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.954999 time
+ TEST PASSed
+Cilk 4 threads 23 size 0.992956 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.687629 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.033692 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.239065 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.588331 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.082197 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.360062 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.627919 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.249242 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.635303 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.605925 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.503671 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.984322 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.967291 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.038374 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.286226 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.125366 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.014688 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.225121 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.320646 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.024021 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.924444 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.986539 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.573757 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.962502 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.006342 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.451678 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.010604 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.139116 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.626597 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.085508 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.352678 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.565318 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.275028 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.892953 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.791909 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.536716 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.981102 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.965665 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.038277 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.267923 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.419354 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.010422 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.228155 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.324125 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.030502 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.921763 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.986701 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.570315 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.963900 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.022797 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.625936 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.007329 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.416629 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.526977 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.108551 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.525129 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.623704 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.347311 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.723658 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.685775 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.517992 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.985343 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.957781 time
+ TEST PASSed
+Pthreads 1 threads 23 size 1.046605 time
+ TEST PASSed
+OpenMP 1 threads 23 size 2.278767 time
+ TEST PASSed
+Cilk 1 threads 23 size 2.423626 time
+ TEST PASSed
+Pthreads 2 threads 23 size 1.013404 time
+ TEST PASSed
+OpenMP 2 threads 23 size 1.227872 time
+ TEST PASSed
+Cilk 2 threads 23 size 1.322560 time
+ TEST PASSed
+Pthreads 3 threads 23 size 1.001166 time
+ TEST PASSed
+OpenMP 3 threads 23 size 0.921945 time
+ TEST PASSed
+Cilk 3 threads 23 size 0.982354 time
+ TEST PASSed
+Pthreads 4 threads 23 size 0.559663 time
+ TEST PASSed
+OpenMP 4 threads 23 size 0.958730 time
+ TEST PASSed
+Cilk 4 threads 23 size 1.105476 time
+ TEST PASSed
+Pthreads 5 threads 23 size 0.583003 time
+ TEST PASSed
+OpenMP 5 threads 23 size 1.031413 time
+ TEST PASSed
+Cilk 5 threads 23 size 1.090623 time
+ TEST PASSed
+Pthreads 6 threads 23 size 0.572306 time
+ TEST PASSed
+OpenMP 6 threads 23 size 1.098082 time
+ TEST PASSed
+Cilk 6 threads 23 size 1.280934 time
+ TEST PASSed
+Pthreads 7 threads 23 size 0.643137 time
+ TEST PASSed
+OpenMP 7 threads 23 size 1.201723 time
+ TEST PASSed
+Cilk 7 threads 23 size 1.421818 time
+ TEST PASSed
+Pthreads 8 threads 23 size 0.665266 time
+ TEST PASSed
+OpenMP 8 threads 23 size 1.350474 time
+ TEST PASSed
+Cilk 8 threads 23 size 0.984985 time
+ TEST PASSed
+Qsort 0 threads 23 size 1.962292 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.170635 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.133033 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.716310 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.101967 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.961272 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.805278 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.113038 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.432262 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.267564 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.211323 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.471920 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.332506 time
+ TEST PASSed
+Pthreads 5 threads 24 size 1.295555 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.555394 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.622959 time
+ TEST PASSed
+Pthreads 6 threads 24 size 1.320193 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.578504 time
+ TEST PASSed
+Cilk 6 threads 24 size 3.756924 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.234855 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.844014 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.697252 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.361190 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.996103 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.273837 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.104732 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.155837 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.025615 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.710702 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.114457 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.958390 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.810997 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.093051 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.436930 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.260435 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.201512 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.496810 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.332952 time
+ TEST PASSed
+Pthreads 5 threads 24 size 1.284802 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.551873 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.696223 time
+ TEST PASSed
+Pthreads 6 threads 24 size 1.327683 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.594873 time
+ TEST PASSed
+Cilk 6 threads 24 size 2.797500 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.181898 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.807563 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.472619 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.547919 time
+ TEST PASSed
+OpenMP 8 threads 24 size 3.025897 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.261716 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.103329 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.170479 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.009780 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.708388 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.108280 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.962909 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.806788 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.104935 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.429642 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.262938 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.170371 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.466469 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.329664 time
+ TEST PASSed
+Pthreads 5 threads 24 size 0.934597 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.548052 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.653331 time
+ TEST PASSed
+Pthreads 6 threads 24 size 1.013831 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.575695 time
+ TEST PASSed
+Cilk 6 threads 24 size 3.393459 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.301669 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.660754 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.205515 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.342054 time
+ TEST PASSed
+OpenMP 8 threads 24 size 3.002263 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.266836 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.099578 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.162517 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.047186 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.711315 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.116514 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.960349 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.810217 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.093972 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.428005 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.259325 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.174918 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.484886 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.299980 time
+ TEST PASSed
+Pthreads 5 threads 24 size 0.906672 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.523132 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.685538 time
+ TEST PASSed
+Pthreads 6 threads 24 size 0.993838 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.616582 time
+ TEST PASSed
+Cilk 6 threads 24 size 3.164238 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.269508 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.688179 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.551509 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.483932 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.887889 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.278848 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.092761 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.166146 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.759757 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.746968 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.100587 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.959401 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.806924 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.138523 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.429185 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.261544 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.162105 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.507522 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.332317 time
+ TEST PASSed
+Pthreads 5 threads 24 size 1.235155 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.565218 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.500235 time
+ TEST PASSed
+Pthreads 6 threads 24 size 1.111269 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.580798 time
+ TEST PASSed
+Cilk 6 threads 24 size 2.599477 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.179809 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.681780 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.775391 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.350055 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.830545 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.269298 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.094237 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.169042 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.032356 time
+ TEST PASSed
+Cilk 1 threads 24 size 5.421544 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.116433 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.961616 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.803212 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.100849 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.430094 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.264016 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.170427 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.540277 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.526570 time
+ TEST PASSed
+Pthreads 5 threads 24 size 1.265353 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.547018 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.650556 time
+ TEST PASSed
+Pthreads 6 threads 24 size 0.988131 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.570986 time
+ TEST PASSed
+Cilk 6 threads 24 size 3.384291 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.215899 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.693053 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.018096 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.555522 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.946815 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.267117 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.094113 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.166843 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.365272 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.960123 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.114779 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.955998 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.801435 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.107307 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.433299 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.263071 time
+ TEST PASSed
+Pthreads 4 threads 24 size 2.122182 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.499269 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.312199 time
+ TEST PASSed
+Pthreads 5 threads 24 size 1.265175 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.529491 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.382651 time
+ TEST PASSed
+Pthreads 6 threads 24 size 0.996666 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.574238 time
+ TEST PASSed
+Cilk 6 threads 24 size 3.379934 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.284586 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.657706 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.024395 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.443849 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.968302 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.264748 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.082676 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.162500 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.759944 time
+ TEST PASSed
+Cilk 1 threads 24 size 5.419598 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.124730 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.957295 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.802805 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.111258 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.433996 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.263261 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.138676 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.489645 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.356541 time
+ TEST PASSed
+Pthreads 5 threads 24 size 1.344134 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.542557 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.690903 time
+ TEST PASSed
+Pthreads 6 threads 24 size 1.051819 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.614835 time
+ TEST PASSed
+Cilk 6 threads 24 size 3.234774 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.269592 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.687602 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.605915 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.502504 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.930905 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.264690 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.084146 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.155815 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.052106 time
+ TEST PASSed
+Cilk 1 threads 24 size 4.710495 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.104170 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.957437 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.805695 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.100298 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.434588 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.263809 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.236402 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.484876 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.355456 time
+ TEST PASSed
+Pthreads 5 threads 24 size 0.927282 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.543860 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.460515 time
+ TEST PASSed
+Pthreads 6 threads 24 size 1.367613 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.563414 time
+ TEST PASSed
+Cilk 6 threads 24 size 2.833025 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.207121 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.849824 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.091762 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.489040 time
+ TEST PASSed
+OpenMP 8 threads 24 size 2.835379 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.260876 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.092988 time
+ TEST PASSed
+Pthreads 1 threads 24 size 2.175901 time
+ TEST PASSed
+OpenMP 1 threads 24 size 5.043865 time
+ TEST PASSed
+Cilk 1 threads 24 size 5.419445 time
+ TEST PASSed
+Pthreads 2 threads 24 size 2.120106 time
+ TEST PASSed
+OpenMP 2 threads 24 size 2.954202 time
+ TEST PASSed
+Cilk 2 threads 24 size 2.811534 time
+ TEST PASSed
+Pthreads 3 threads 24 size 2.120497 time
+ TEST PASSed
+OpenMP 3 threads 24 size 2.435764 time
+ TEST PASSed
+Cilk 3 threads 24 size 2.269503 time
+ TEST PASSed
+Pthreads 4 threads 24 size 1.179075 time
+ TEST PASSed
+OpenMP 4 threads 24 size 2.485157 time
+ TEST PASSed
+Cilk 4 threads 24 size 2.394208 time
+ TEST PASSed
+Pthreads 5 threads 24 size 0.894953 time
+ TEST PASSed
+OpenMP 5 threads 24 size 2.533181 time
+ TEST PASSed
+Cilk 5 threads 24 size 2.482246 time
+ TEST PASSed
+Pthreads 6 threads 24 size 0.981665 time
+ TEST PASSed
+OpenMP 6 threads 24 size 2.573337 time
+ TEST PASSed
+Cilk 6 threads 24 size 2.570934 time
+ TEST PASSed
+Pthreads 7 threads 24 size 1.181884 time
+ TEST PASSed
+OpenMP 7 threads 24 size 2.673301 time
+ TEST PASSed
+Cilk 7 threads 24 size 3.733233 time
+ TEST PASSed
+Pthreads 8 threads 24 size 1.630778 time
+ TEST PASSed
+OpenMP 8 threads 24 size 3.069429 time
+ TEST PASSed
+Cilk 8 threads 24 size 2.260272 time
+ TEST PASSed
+Qsort 0 threads 24 size 4.093944 time
+ TEST PASSed
