@@ -20,14 +20,13 @@ void printIt ( vector<double> yo[MAXS] ) {
     }
     printf ("%lf ", sum/yo[q].size());
   }
-  printf ("\n");
+  printf (";\n");
 }
 
 pair<double,int> printTimes( vector<double> yo[MAXT][MAXS]) {
   int p, pBest;
   double minim = 15;
 
-  printf ("moxos\n");
   for ( p=1; p<=8; ++p ) {
     printIt ( yo[p] );
     for (int i=0; i<yo[p][24].size(); ++i) {
